@@ -1,0 +1,11 @@
+.search-result-container {
+  padding: 5px 20px;
+}
+
+.search-result-container:hover {
+  background-color: #efefef;
+}
+
+.active {
+  background-color: #efefef;
+}
